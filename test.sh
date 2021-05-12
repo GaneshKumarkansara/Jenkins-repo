@@ -1,6 +1,6 @@
 echo "This is for testing github with Jenkins"
 
 date
-cat
+cal
 
 echo "Bye Done!"
